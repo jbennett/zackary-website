@@ -2,7 +2,7 @@ class PagesController < ApplicationController
 
     def l123
         @repeats = 1
-        @name = "timothy"
+        @name = ""
     end
 
     def pokemon
